@@ -6,3 +6,5 @@ Repository for learning how to do canvas animations
 -> Using http://www.html5canvastutorials.com/ as reference
 
 Working from : http://codepen.io/loktar00/pen/CHpGo for snowing animation to understand how it works and modifying it
+
+Bubbles: Working on website background animation
